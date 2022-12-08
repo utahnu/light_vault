@@ -19,19 +19,6 @@
               }
             },
             "group": "2173298b28d70735"
-          },
-          {
-            "id": "89cab4177b26b441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "\"Becoming Exemplary Latter-Day Saints\".md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "e6b88aa0b2197f8f"
           }
         ]
       },
@@ -51,19 +38,6 @@
               }
             },
             "group": "2173298b28d70735"
-          },
-          {
-            "id": "0ad75d615e52637a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "\"Becoming Exemplary Latter-Day Saints\".md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "e6b88aa0b2197f8f"
           }
         ]
       }
@@ -206,9 +180,9 @@
     "direction": "horizontal",
     "width": 258.5
   },
-  "active": "ab318055f1335f94",
+  "active": "6a907b9189592d3d",
   "lastOpenFiles": [
-    "\"Becoming Exemplary Latter-Day Saints\".md",
+    "quotebook/\"Becoming Exemplary Latter-Day Saints\".md",
     "temple_learning/Impressions for Lesson 1.md",
     "temple_learning/Temple Instruction - First Impressions.md",
     "music101_tag/Music for 18 Musicians - Steve Reich (1974-76).md",

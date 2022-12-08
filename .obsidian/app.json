@@ -2,7 +2,8 @@
   "livePreview": false,
   "spellcheck": true,
   "pdfExportSettings": {
-    "pageSize": "A5",
+    "includeName": true,
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
