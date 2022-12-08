@@ -6,7 +6,7 @@ I don't yet know who I'll be working with for this future calling. The rearrange
 What is important? What should be taught? What is appropriate to be taught?
 Below is the lesson plan of the Gospel Library's Temple Preparation Seminar.
 
-	(navigate by Library/Temple and Family History/Temple Preparation/Endowed from on High: Temple Preparation Seminar)
+`Library/Temple_and_Family_History/Temple_Preparation/Endowed_from_on High:_Temple_Preparation_Seminar`
 
 - Lesson 1: The Temple Teaches about the Great Plan of Salvation
 - Lesson 2: We Must Be Worthy to Enter the Temple
