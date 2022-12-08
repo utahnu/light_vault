@@ -11,25 +11,59 @@
             "id": "ab318055f1335f94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "temple_learning/Impressions for Lesson 1.md",
+                "mode": "source",
+                "source": true
+              }
             },
             "group": "2173298b28d70735"
+          },
+          {
+            "id": "89cab4177b26b441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"Becoming Exemplary Latter-Day Saints\".md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "e6b88aa0b2197f8f"
           }
         ]
       },
       {
-        "id": "610d729ffaed2eb8",
+        "id": "3938a5a275a5f356",
         "type": "tabs",
         "children": [
           {
-            "id": "7bff6486906988d6",
+            "id": "ba5ca7139fe5419c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "temple_learning/Impressions for Lesson 1.md",
+                "mode": "preview",
+                "source": true
+              }
             },
             "group": "2173298b28d70735"
+          },
+          {
+            "id": "0ad75d615e52637a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"Becoming Exemplary Latter-Day Saints\".md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "e6b88aa0b2197f8f"
           }
         ]
       }
@@ -124,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "temple_learning/Impressions for Lesson 1.md"
+              }
             }
           },
           {
@@ -133,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "temple_learning/Impressions for Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "temple_learning/Impressions for Lesson 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,15 +208,15 @@
   },
   "active": "ab318055f1335f94",
   "lastOpenFiles": [
+    "\"Becoming Exemplary Latter-Day Saints\".md",
+    "temple_learning/Impressions for Lesson 1.md",
+    "temple_learning/Temple Instruction - First Impressions.md",
     "music101_tag/Music for 18 Musicians - Steve Reich (1974-76).md",
     "music101_tag/Music 101 in-class practice exam.md",
     "daily_notes/07 Dec 2022.md",
     "light_tag/lights.md",
     "music101_tag/Minimalism and Steve Reich.md",
     "daily_notes/05 Dec 2022.md",
-    "daily_notes/24 Nov 2022.md",
-    "README.md",
-    "obsidian_dev2/README.md",
-    "daily_notes/11/24_2022.md"
+    "daily_notes/24 Nov 2022.md"
   ]
 }
