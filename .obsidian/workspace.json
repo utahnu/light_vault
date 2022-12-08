@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "76b3b9cba05dbd01",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c35a121f3c2bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab318055f1335f94",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "2173298b28d70735"
+          }
+        ]
+      },
+      {
+        "id": "610d729ffaed2eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bff6486906988d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "2173298b28d70735"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f65eeb5b6e5edbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "32076d3c128749ba",
+        "type": "tabs",
+        "dimension": 59.62264150943396,
+        "children": [
+          {
+            "id": "6a907b9189592d3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfba98eee391d6a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "445d0fc65d3d2b54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#music101",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8089072efaa33cfb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "19f85720bbe31ec5",
+        "type": "tabs",
+        "dimension": 40.37735849056604,
+        "children": [
+          {
+            "id": "e2a5bbfd842853f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "afbf28199f99273f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7107a73b9b66790",
+        "type": "tabs",
+        "dimension": 50.849056603773576,
+        "children": [
+          {
+            "id": "d0c44b3b67624abd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "08557acb7aa3ddf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b66220a3c59f2f46",
+        "type": "tabs",
+        "dimension": 49.150943396226424,
+        "children": [
+          {
+            "id": "728ec59041e4c6f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "active": "ab318055f1335f94",
+  "lastOpenFiles": [
+    "music101_tag/Music for 18 Musicians - Steve Reich (1974-76).md",
+    "music101_tag/Music 101 in-class practice exam.md",
+    "daily_notes/07 Dec 2022.md",
+    "light_tag/lights.md",
+    "music101_tag/Minimalism and Steve Reich.md",
+    "daily_notes/05 Dec 2022.md",
+    "daily_notes/24 Nov 2022.md",
+    "README.md",
+    "obsidian_dev2/README.md",
+    "daily_notes/11/24_2022.md"
+  ]
+}
